@@ -21,6 +21,7 @@ const Home: NextPage = () => {
             className="font-bold"
             href="https://www.decentology.com/hyperverse"
             target="_blank"
+            rel="noopener noreferrer"
           >
             Hyperverse
           </a>
@@ -32,6 +33,7 @@ const Home: NextPage = () => {
             className="font-bold"
             href="https://github.com/decentology/hyperverse-mono"
             target="_blank"
+            rel="noopener noreferrer"
           >
             repo
           </a>
@@ -41,6 +43,7 @@ const Home: NextPage = () => {
           <a
             href="https://docs.hyperverse.dev/"
             target="_blank"
+            rel="noopener noreferrer"
             className="p-4 border border-white rounded-xl col-start-3 col-span-4 shadow-2xl hover:border-transparent hover:text-teal-500 hover:bg-black hover:shadow-inner"
           >
             <h2 className="text-2xl mb-2">Documentation &rarr;</h2>
@@ -53,6 +56,7 @@ const Home: NextPage = () => {
           <a
             href="https://www.decentology.com/blog"
             target="_blank"
+            rel="noopener noreferrer"
             className="p-4 border border-white rounded-xl col-span-4 shadow-2xl hover:border-transparent hover:text-teal-500 hover:bg-black hover:shadow-inner"
           >
             <h2 className="text-2xl mb-2">Blog &rarr;</h2>

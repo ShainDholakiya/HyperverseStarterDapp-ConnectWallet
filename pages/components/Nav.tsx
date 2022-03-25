@@ -37,6 +37,7 @@ const Nav = () => {
           <a
             href="https://twitter.com/Decentology"
             target="_blank"
+            rel="noopener noreferrer"
             className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
           >
             Twitter
@@ -44,6 +45,7 @@ const Nav = () => {
           <a
             href="https://discord.gg/vJgkUmeHzK"
             target="_blank"
+            rel="noopener noreferrer"
             className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
           >
             Discord
@@ -51,6 +53,7 @@ const Nav = () => {
           <a
             href="https://www.youtube.com/c/Decentology"
             target="_blank"
+            rel="noopener noreferrer"
             className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
           >
             YouTube
